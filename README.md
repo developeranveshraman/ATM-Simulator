@@ -64,7 +64,7 @@ ATM Simulator/
 Open your terminal in this directory:
 
 ```bash
-cd "/Users/anveshraman/Desktop/C Programming/ATM Simulator"
+cd "/C Programming/ATM Simulator"
 ```
 
 ### 1. Compile
