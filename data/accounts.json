@@ -1,0 +1,76 @@
+{
+  "accounts": [
+    {
+      "last4": "1234",
+      "card_number": "",
+      "pin": "4321",
+      "name": "Alice Johnson",
+      "balance": 20674.5,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "2468",
+      "card_number": "",
+      "pin": "1357",
+      "name": "Bob Williams",
+      "balance": 8750.0,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "3690",
+      "card_number": "",
+      "pin": "2580",
+      "name": "Carol Davis",
+      "balance": 22100.8,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "4821",
+      "card_number": "",
+      "pin": "1111",
+      "name": "Anvesh Raman",
+      "balance": 4.98793e+15,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "5555",
+      "card_number": "",
+      "pin": "9999",
+      "name": "Diana Prince",
+      "balance": 50000.0,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "6789",
+      "card_number": "",
+      "pin": "7654",
+      "name": "Edward Brown",
+      "balance": 1200.3,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "7777",
+      "card_number": "",
+      "pin": "0000",
+      "name": "Fiona Green",
+      "balance": 45680.0,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    },
+    {
+      "last4": "8888",
+      "card_number": "",
+      "pin": "3333",
+      "name": "George Miller",
+      "balance": 780.25,
+      "is_blocked": false,
+      "failed_attempts": 0.0
+    }
+  ]
+}
